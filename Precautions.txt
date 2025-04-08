@@ -1,0 +1,3 @@
+1. If AI is not giving the answers then check for the API in OpenRouter.
+2. WhatsApp or Telegram whatever social networking side is being used must have drag select option.
+3. Position has to be rechecked for different setups.
