@@ -1,6 +1,6 @@
 import requests
 
-aiapi = "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"
+aiapi = "sk-or-v1-............"
 
 def get_ai_reply(copied_text: str) -> str:
     prompt = f"""
